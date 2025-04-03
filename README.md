@@ -1,7 +1,26 @@
-### Sobre Mí
-<p><strong>Actualmente</strong>, estoy cursando el segundo año del Grado Superior en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong> en el centro Santa Ana y San Rafael en Madrid 📚. Durante mis estudios, he adquirido habilidades clave en <em>programación</em> 💻 y <em>desarrollo de software</em>, con un enfoque en <strong>aplicaciones multiplataforma</strong> 📱.</p>
+# Sobre Mí
 
-<p>Mi formación me ha permitido desarrollar competencias en diversos <strong>lenguajes de programación</strong> 🧑‍💻 y <strong>herramientas tecnológicas</strong> 🔧, preparándome para enfrentar desafíos en el desarrollo de aplicaciones <strong>eficientes</strong> ⚡ y de <strong>alta calidad</strong> 🌟.</p>
+Actualmente, estoy cursando el segundo año del Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** 📚. He adquirido habilidades clave en **programación** 💻 y **desarrollo de aplicaciones multiplataforma** 📱, especialmente con **Java** y **Android Studio**.
 
-<p>Estoy entusiasmado por aplicar mis conocimientos en entornos profesionales, contribuir al desarrollo de soluciones <strong>innovadoras</strong> 🚀 y continuar aprendiendo en el dinámico campo de la <strong>tecnología</strong> 💡.</p>
+Mi objetivo es aplicar mis conocimientos en proyectos profesionales, contribuir a soluciones **innovadoras** 🚀 y seguir aprendiendo en el campo de la **tecnología** 💡.
 
+---
+
+# Skills
+
+- **Lenguajes de Programación**: Java, HTML, CSS Y Bases en C#, JavaScript.
+- **Desarrollo de Aplicaciones**: Experiencia en el desarrollo de aplicaciones móviles con **Android Studio** 📱.
+- **Bases de Datos**: Conocimientos en **SQL**, **SQLite**, **MYSql**, **ORM**, **PL/SQL** 💾.
+- **Herramientas y Frameworks**: Uso de herramientas como **Git** para control de versiones, **Firebase** para almacenamiento en la nube y **REST API** para comunicación entre servicios 🔧.
+- **Metodologías de Desarrollo**: Conocimiento en metodologías ágiles como **Scrum** y **Kanban** ⏳.
+- **Desarrollo Multiplataforma**: Enfoque en crear aplicaciones que funcionen en múltiples plataformas, optimizando el rendimiento y la experiencia de usuario ⚡.
+
+---
+
+# Contacto
+
+Si deseas ponerte en contacto conmigo, puedes escribirme directamente al siguiente correo electrónico:
+
+[santiago.perez.rub@gmail.com](mailto:santiago.perez.rub@gmail.com)
+
+También puedes ver mi perfil profesional en **LinkedIn**: [Santiago Pérez Díaz](https://www.linkedin.com/in/santiago-p%C3%A9rez-d%C3%ADaz-rub%C3%ADn-730b52277/)
