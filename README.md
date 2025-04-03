@@ -8,7 +8,7 @@ Mi objetivo es aplicar mis conocimientos en proyectos profesionales, contribuir 
 
 # Skills
 
-- **Lenguajes de Programación**: Java, HTML, CSS Y Bases en C#, JavaScript.
+- **Lenguajes de Programación**: Java, HTML, CSS Y Bases en C# y JavaScript.
 - **Desarrollo de Aplicaciones**: Experiencia en el desarrollo de aplicaciones móviles con **Android Studio** 📱.
 - **Bases de Datos**: Conocimientos en **SQL**, **SQLite**, **MYSql**, **ORM**, **PL/SQL** 💾.
 - **Herramientas y Frameworks**: Uso de herramientas como **Git** para control de versiones, **Firebase** para almacenamiento en la nube y **REST API** para comunicación entre servicios 🔧.
